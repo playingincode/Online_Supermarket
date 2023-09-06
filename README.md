@@ -3,10 +3,10 @@
 This is a web-based application developed for an online supermarket. Customers can register, browse items, add them to the cart, place orders, and make payments through this application. The application also includes user management functionality and reporting features for administrators.
 
 ## Contributors
-- Rohit Das
 - Nishit Poddar
-- Soumya Chaudhary
 - Sarvesh Borole
+- Rohit Das
+- Soumya Chaudhary
 - Shashank K
 - Utkarsh Tiwari
 
